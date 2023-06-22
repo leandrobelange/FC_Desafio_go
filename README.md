@@ -1,4 +1,4 @@
-# FC_Desafio_go
+# FULL CYCLE DESAFIO GO
 Repositório para armazenar o Desafio Go do cruso Full Cycle 3.0
 
 Criar uma aplicação GO que escreva a mensagem: "Full Cycle Rocks!", com tamanho < 2Mb.
